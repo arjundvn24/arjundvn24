@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=arjundvn24.arjundvn24)
 <br />
 
-Hi, I'm Arjun Dhawan (alias arjundvn24) a FINTECH FREAK. I am a MERN STACK DVELOPER , BLOCKCHAIN  and CRYPTO enthusiast  🚀 from India, currently , and a member of 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) . Beside's programming, I enjoy gyming , travelling and reading novels. Not at all sorry to say that i am a FITNESS FREAK.
+Hi, I'm Arjun Dhawan (alias arjundvn24) a FINTECH FREAK. I am a MERN STACK DVELOPER , CRYPTO enthusiast and trader 🚀 from India, currently , and a member of 🙍🏽‍♂️ [@ACM-Thapar](https://github.com/ACM-Thapar) . Beside's programming, I enjoy gyming , travelling and trading.
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
   
