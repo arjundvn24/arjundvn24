@@ -42,9 +42,7 @@ Hi, I'm Arjun Dhawan (alias arjundvn24) a FINTECH FREAK. I am a MERN STACK DVELO
 - 🤔 I’m looking for help with React;
 - 💬 Ask me about anything, I am happy to help;
 
-- ⚡️ Fun Fa!
-[WhatsApp Image 2022-08-08 at 21 03 26](https://user-images.githubusercontent.com/73894299/186118077-4be78e1f-ff02-48d0-8e0b-8838ccdd9e72.jpg)
-ct: There is something exciting comming in a month , stay tuned
+- ⚡️ Fun Fa!ct: There is something exciting comming in a month , stay tuned
 - 📫 How to reach me: arjundhawan2002@gmail.com;
 
 **Languages and Tools:**  
